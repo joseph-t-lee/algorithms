@@ -20,6 +20,6 @@ Some incomplete thoughts for now.
 - Plotting: Projectile Motion 
 - Monte Carlo 1: Coin Flips
 - Monte Carlo 2: Find Pi
-- Numerics 1: Band Structures
-- Numerics 2:  
-- Numerics 3:
+- Numerics 1: Normal Modes
+- Numerics 2: Verifying Oscillations
+- Numerics 3: Drag Force
